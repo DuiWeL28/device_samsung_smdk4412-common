@@ -16,42 +16,42 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="mdnie_scenario_entries">
-    <item>CyanogenMod (Padrão)</item>
-    <item>IU</item>
-    <item>Vídeo</item>
-    <item>Vídeo Quente</item>
-    <item>Vídeo Frio</item>
-    <item>Câmera</item>
-    <item>Navegação</item>
-    <item>Galeria</item>
+    <item>CyanogenMod (типово)</item>
+    <item>Інтерфейс</item>
+    <item>Відео</item>
+    <item>Відео тепло</item>
+    <item>Відео холодно</item>
+    <item>Камера</item>
+    <item>Навігація</item>
+    <item>Галерея</item>
     <item>VT</item>
   </string-array>
   <string-array name="mdnie_mode_entries">
-    <item>Dinâmico (Padrão)</item>
-    <item>Padrão</item>
-    <item>Natural</item>
-    <item>Filme</item>
+    <item>Динамічний (типово)</item>
+    <item>Стандартний</item>
+    <item>Натуральний</item>
+    <item>Кіно</item>
   </string-array>
   <string-array name="mdnie_negative_entries">
-    <item>Normal</item>
-    <item>Invertido</item>
+    <item>Нормально</item>
+    <item>Негатив</item>
   </string-array>
   <string-array name="touchkey_timeout_entries">
-    <item>Nunca</item>
-    <item>1 segundo</item>
-    <item>2 segundos</item>
-    <item>3 segundos (Padrão)</item>
-    <item>4 segundos</item>
-    <item>5 segundos</item>
-    <item>6 segundos</item>
+    <item>Ніколи</item>
+    <item>1 секунда</item>
+    <item>2 секунди</item>
+    <item>3 секунди (типово)</item>
+    <item>4 секунди</item>
+    <item>5 секунд</item>
+    <item>6 секунд</item>
   </string-array>
   <string-array name="led_fade_entries">
-    <item>Piscando</item>
-    <item>Desvanecimento</item>
+    <item>Блимання</item>
+    <item>Затухання</item>
   </string-array>
   <string-array name="hspa_entries">
-    <item>Somente UMTS</item>
-    <item>Somente HSDPA</item>
+    <item>UMTS тільки</item>
+    <item>HSDPA тільки</item>
     <item>HSDPA + HSUPA</item>
   </string-array>
 </resources>
